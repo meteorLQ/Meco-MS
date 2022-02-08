@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+node_modules
+package-lock.json
+yarn.lock
+
+.vscode
+.temp
+.cache
+.DS_Store
+.idea
+
+dist
